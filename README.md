@@ -33,5 +33,7 @@ Turning side projects into products — a CRM for small studios and a VAT tool f
 
 ### Reach me
 
+- **LinkedIn** — [kevinarce98](https://www.linkedin.com/in/kevinarce98/)
 - **GitHub** — [@KevinArce98](https://github.com/KevinArce98)
-<!-- Add your links when ready: portfolio, LinkedIn, email -->
+- **X** — [@KevinArce981](https://twitter.com/KevinArce981)
+- **Threads** — [@kevinarce98](https://www.threads.com/@kevinarce98)
