@@ -11,10 +11,8 @@ I build products end to end — from the data model and API to the interface peo
 | Project | What it is |
 | --- | --- |
 | **[excel-bridge](https://github.com/KevinArce98/excel-bridge)** · [npm](https://www.npmjs.com/package/excel-bridge) | Lightweight, tree-shakeable `.xlsx` toolkit for TypeScript — read and write spreadsheets in the browser and Node without ExcelJS or SheetJS. |
-| **[mira-player](https://github.com/KevinArce98/mira-player)** | Cross-platform IPTV player over the Xtream Codes protocol. One domain model, native clients for web (PWA) and mobile (React Native). |
 | **[simplify-iva-cr](https://github.com/KevinArce98/simplify-iva-cr)** | Monthly VAT (IVA) calculator for independent professionals in Costa Rica. Parses electronic-invoice XML and reconciles credit vs. debit automatically. |
 | **[supergraph-local](https://github.com/KevinArce98/supergraph-local)** | Tooling to compose subgraphs and run a federated GraphQL supergraph locally against a single super-schema. |
-| **[mari-puntos](https://github.com/KevinArce98/mari-puntos)** | Full-stack app split across Expo (mobile), Express + TypeORM + PostgreSQL (API), and a Next.js landing. |
 
 ---
 
@@ -33,7 +31,7 @@ Turning side projects into products — a CRM for small studios and a VAT tool f
 
 ### Reach me
 
-- **Website** — [kevin-arias-flame.vercel.app](https://kevin-arias-flame.vercel.app/)
+- **Website** — [kevinarias.dev](https://kevinarias.dev/)
 - **LinkedIn** — [kevinarce98](https://www.linkedin.com/in/kevinarce98/)
 - **GitHub** — [@KevinArce98](https://github.com/KevinArce98)
 - **X** — [@KevinArce981](https://twitter.com/KevinArce981)
